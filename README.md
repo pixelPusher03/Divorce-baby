@@ -22,11 +22,11 @@ Divorced baby is compatible with the following platforms:
 ### INSTALLATION
 
 ```
-git clone https://github.com/pixelPusher03/Divorced-baby
+git clone https://github.com/pixelPusher03/Divorce-baby
 ```
 
 ```
-cd divorced-baby
+cd divorce-baby
 ```
 
 ```
