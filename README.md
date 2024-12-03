@@ -1,6 +1,5 @@
 # Divorce baby - Powerful Mobile Malware.
 
-![Selfkiller Logo](https://l.top4top.io/p_2656q9nit0.jpg)
 
 ## Introduction
 
